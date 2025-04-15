@@ -1,7 +1,7 @@
 # Netflix-Clone-on-an-ECS-Cluster-using-the-AWS-UI-Terraform-and-full-automation-with-Jenkins.
 
+![image](https://github.com/user-attachments/assets/d93c4008-ad06-4f10-9ed4-d96a54e01271)
 
-Here’s a fully organized, **comprehensive step-by-step project** for deploying a **Netflix Clone** on an **ECS Cluster using the AWS UI, Terraform, and full automation with Jenkins**. Transitions and explanations are included to guide users at every stage—from manual UI to full DevOps automation.
 
 ---
 
